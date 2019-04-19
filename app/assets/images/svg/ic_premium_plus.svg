@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="42px" viewBox="0 0 69 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,1.55644621 C0,0.881440284 0.539391534,0.331121645 1.21740947,0.327202026 L57.8266954,-5.60856489e-05 C59.1726406,-0.00783699044 59.5943901,0.848536853 58.7693423,1.91187985 L49.4706624,13.8962589 C48.6453267,14.9599728 48.6456146,16.6849649 49.4706624,17.7483079 L58.7693423,29.7326869 C59.5946779,30.7964008 59.1663109,31.6650556 57.8266954,31.6728 L1.21740947,32.0000581 C0.545052785,32.003945 0,31.4573542 0,30.7848896 L0,1.55644621 Z" id="path-1"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Premium-plus" transform="translate(-29.000000, -438.000000)">
+            <g id="Group-3" transform="translate(34.000000, 100.000000)">
+                <g id="Group-6" transform="translate(0.000000, 320.000000)">
+                    <g id="Group-2" transform="translate(0.000000, 20.000000)">
+                        <g id="Group-7">
+                            <g id="Button_Container">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <use fill="#FAB940" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            </g>
+                            <polygon id="Shape-Copy-3" fill="#FFFFFF" points="13.7837838 10.4 15.5376937 13.5601851 19.4594595 14.0669003 16.6216216 16.5266788 17.2916036 20 13.7837838 18.3600729 10.275964 20 10.9459459 16.5266788 8.10810811 14.0669003 12.0298739 13.5601851"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

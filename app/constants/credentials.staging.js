@@ -1,0 +1,15 @@
+export const ALG_INDEX_NAME = 'UsedCarListing_staging';
+export const ALG_TOP_SPOT_INDEX_NAME = 'UsedCarListing_by_top_spot_staging';
+export const ALG_INDEX_DESC_DATE = 'UsedCarListing_by_date_desc_staging';
+export const ALG_INDEX_ASC_DATE = 'UsedCarListing_by_date_asc_staging';
+export const ALG_INDEX_DESC_YEAR = 'UsedCarListing_by_year_desc_staging';
+export const ALG_INDEX_ASC_YEAR = 'UsedCarListing_by_year_asc_staging';
+export const ALG_INDEX_DESC_PRICE = 'UsedCarListing_by_price_desc_staging';
+export const ALG_INDEX_ASC_PRICE = 'UsedCarListing_by_price_asc_staging';
+export const ALG_INDEX_DESC_MILEAGE = 'UsedCarListing_by_mileage_desc_staging';
+export const ALG_INDEX_ASC_MILEAGE = 'UsedCarListing_by_mileage_asc_staging';
+export const API_KEY = 7919;
+export const API_URL = '//api-staging.carsdb.com/v2';
+export const INTERCOM_APP_ID = 'ij7uvy7l';
+export const ALG_MODEL_INDEX_NAME = 'CarModel_development';
+export const SITE_URL = '//staging.carsdb.com';

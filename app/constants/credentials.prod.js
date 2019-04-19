@@ -1,0 +1,15 @@
+export const ALG_INDEX_NAME = 'UsedCarListing_production';
+export const ALG_TOP_SPOT_INDEX_NAME = 'UsedCarListing_by_top_spot_production';
+export const ALG_INDEX_DESC_DATE = 'UsedCarListing_by_date_desc_production';
+export const ALG_INDEX_ASC_DATE = 'UsedCarListing_by_date_asc_production';
+export const ALG_INDEX_DESC_YEAR = 'UsedCarListing_by_year_desc_production';
+export const ALG_INDEX_ASC_YEAR = 'UsedCarListing_by_year_asc_production';
+export const ALG_INDEX_DESC_PRICE = 'UsedCarListing_by_price_desc_production';
+export const ALG_INDEX_ASC_PRICE = 'UsedCarListing_by_price_asc_production';
+export const ALG_INDEX_DESC_MILEAGE = 'UsedCarListing_by_mileage_desc_production';
+export const ALG_INDEX_ASC_MILEAGE = 'UsedCarListing_by_mileage_asc_production';
+export const API_KEY = 4177;
+export const API_URL = '//api.carsdb.com/v2';
+export const INTERCOM_APP_ID = 'vi51fymq';
+export const ALG_MODEL_INDEX_NAME = 'CarModel_production';
+export const SITE_URL = '//www.carsdb.com';
