@@ -21,7 +21,7 @@ class Home extends React.Component {
 //   cars: state.cars.cars,  
 // });
 
-export default connect(Home);
+export default Home;
 
 
 
